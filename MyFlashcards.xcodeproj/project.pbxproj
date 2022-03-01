@@ -13,6 +13,8 @@
 		FE6F331F27CE87C30020253D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6F331D27CE87C30020253D /* Main.storyboard */; };
 		FE6F332127CE87C70020253D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE6F332027CE87C70020253D /* Assets.xcassets */; };
 		FE6F332427CE87C70020253D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6F332227CE87C70020253D /* LaunchScreen.storyboard */; };
+		FE6F332C27CE8D0B0020253D /* FlashCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6F332B27CE8D0B0020253D /* FlashCard.swift */; };
+		FE6F332E27CE8D4D0020253D /* ItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6F332D27CE8D4D0020253D /* ItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FE6F332027CE87C70020253D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE6F332327CE87C70020253D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE6F332527CE87C70020253D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE6F332B27CE8D0B0020253D /* FlashCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashCard.swift; sourceTree = "<group>"; };
+		FE6F332D27CE8D4D0020253D /* ItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				FE6F331927CE87C30020253D /* SceneDelegate.swift */,
 				FE6F331B27CE87C30020253D /* ViewController.swift */,
 				FE6F331D27CE87C30020253D /* Main.storyboard */,
+				FE6F332B27CE8D0B0020253D /* FlashCard.swift */,
+				FE6F332D27CE8D4D0020253D /* ItemView.swift */,
 				FE6F332027CE87C70020253D /* Assets.xcassets */,
 				FE6F332227CE87C70020253D /* LaunchScreen.storyboard */,
 				FE6F332527CE87C70020253D /* Info.plist */,
@@ -140,6 +146,8 @@
 			files = (
 				FE6F331C27CE87C30020253D /* ViewController.swift in Sources */,
 				FE6F331827CE87C30020253D /* AppDelegate.swift in Sources */,
+				FE6F332C27CE8D0B0020253D /* FlashCard.swift in Sources */,
+				FE6F332E27CE8D4D0020253D /* ItemView.swift in Sources */,
 				FE6F331A27CE87C30020253D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
